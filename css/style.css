@@ -1,0 +1,15 @@
+#col{
+    color: blue;
+    background: black;
+}
+
+#sol{
+color: blue;
+background: black;
+padding-left: 10px;
+}
+
+
+.dis{
+    display: flex;
+}
